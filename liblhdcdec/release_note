@@ -1,0 +1,27 @@
+Release Note.
+=============================================
+2024/03/11
+1. V4.1.0
+2. upgrade lib log mechanism
+3. upgrade license check mechanism
+
+2023/06/21
+1. LHDCv4(LHDC_V3_V4-4.0.6) - Refactor license key
+
+2023/04/10
+1. LHDCv4(LHDC_V3_V4-4.0.5) - fix logf function
+
+2023/01/13
+1. LHDCv4(LHDC_V3_V4-4.0.4) - fix strstr bug on checking localDevName
+
+2022/08/05
+1. LHDCv4(LHDC_V3_V4-4.0.3) - apply string translate to hex function for customer key tool
+
+2022/05/23
+1. LHDCv4(LHDC_V3_V4-4.0.2) - release build for different toolchains; add test program
+
+2022/03/15
+1. LHDCv4(LHDC_V3_V4-4.0.1) - Build version of "10 mins license check" for customer verification
+
+2022/03/09
+1. LHDCv4(LHDC_V3_V4-4.0.1) - First release.

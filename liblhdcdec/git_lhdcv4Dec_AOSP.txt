@@ -1,0 +1,8 @@
+
+#### libs Info: ####
+lib ver: V4.1.0
+git Info: Main_LHDCV4_DEC 36ec693
+
+<md5>:
+49212ff95ca6720aa077e56a3a5496aa libs/armeabi-v7a/liblhdcdec.so
+69a412b2d76d2279065bb659f93477ab libs/arm64-v8a/liblhdcdec.so

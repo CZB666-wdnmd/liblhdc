@@ -1,0 +1,8 @@
+
+#### libs Info: ####
+lib ver: V5.2.4
+git Info: Main_LHDC_V5_1 6d6bf51
+
+<md5>:
+0c38f06a3c4a1cecb7793b95c66a1dca libs/armeabi-v7a/liblhdcv5.so
+f3a29ed19195c886fa4f2acff4c552d4 libs/arm64-v8a/liblhdcv5.so

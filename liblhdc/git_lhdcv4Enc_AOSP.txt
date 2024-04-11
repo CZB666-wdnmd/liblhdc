@@ -1,0 +1,8 @@
+
+#### libs Info: ####
+lib ver: V4.1.0
+git Info: v4.0 d7cdfe9
+
+<md5>:
+1e272a084cf6c6b2b96095df65c9e74b libs/armeabi-v7a/liblhdc.so
+49f5c54e334a8c42b8a1bfd07379b304 libs/arm64-v8a/liblhdc.so

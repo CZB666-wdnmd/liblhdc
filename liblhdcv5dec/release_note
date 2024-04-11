@@ -1,0 +1,51 @@
+Release Note.
+======================================================
+2024/03/11
+1. V5.2.4
+2. upgrade lib log module
+3. upgrade license check module
+
+2024/02/22
+1. V5.2.3
+2. upgrade license check mechanism
+
+2024/01/18
+1. V5.2.2
+2. enable frame duratio 2.5ms for lossless 96KHz24bit
+
+2023/12/15
+1. V5.2.1
+2. core source refactor
+
+2023/11/18
+1. V5.0.10
+2. add lossless 96KHz24bit
+3. source code refactor
+
+2023/05/08
+1. V5.0.9
+2. add lossless raw mode to V5 decoder
+
+2023/02/24
+1. V5.0.8
+2. add lossless-24bit feature
+
+2023/02/07
+1. V5.0.7
+2. print "decoder lib software version" when init
+3. change license trial duration to 10 minutes
+
+2022/08/08
+1. V5.0.6
+2. add lossless-16bit feature
+
+2022/06/21
+1. Update version to 5.0.5
+2. Reduce inte. memory size (decode buffer)
+
+2022/03/23
+1. Update version to 5.0.1
+2. Add lhdcv5_util_dec_get_mem_req
+3. Modify lhdcv5_util_init_decoder parameter, need send memory pointer
+4. L/R mute when lhdc license key fail
+

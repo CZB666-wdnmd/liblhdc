@@ -1,0 +1,76 @@
+Release Note.
+======================================================
+2024/03/11
+1. V5.2.4
+2. upgrade lib log module
+3. upgrade license check module
+
+2024/02/22
+1. V5.2.3
+2. upgrade license check mechanism
+
+2024/01/16
+1. V5.2.2
+2. enable frame duratio 2.5ms for lossless 96KHz24bit
+
+2024/01/12
+1. V5.2.1
+2. core lib refactor
+
+2023/11/18
+1. V5.1.2
+2. add lossless 96KHz24bit
+3. Source code refactor
+
+2023/08/30
+1. V5.1.1
+2. apply external log printer
+3. let increase of lless_dnCheckBitrateCnt, lless_upCheckBitrateCnt by lib.
+4. add lib license mechanism
+
+2023/07/11
+1. V5.1.0
+2. Add lossless raw mode
+3. reduce required heap size of lib.
+4. fix a corner case: wrong frame_per_packet result when mtu==N*encoded_frame_size.
+5. integrated frame-per-packet calculation for all modes(lossy, lossless, lossless raw).
+6. Encoder optimization: lossless 44.1k/48k 24bits LPC function run time optimization.
+
+2023/02/24
+1. V5.0.9
+2. add lossless-24bit feature
+
+2022/12/30
+1. V5.0.8
+2. modify frame-per-packet calculation to send number of frames per packet as many as possible.
+
+2022/10/31
+1. V5.0.7
+2. add new APIs to configure lossless VBR
+3. move VBR mechanism from lhdcBT_enc into lib
+
+2022/08/09
+1. V5.0.6
+2. add lossless-16bit feature and hybrid ABR+VBR
+
+2022/07/19
+1. V5.0.5
+2. add "ABR auto reset" after pause mechanism
+
+2022/04/30
+1. V5.0.4
+2. Move memory heap allocation from lib to outside
+
+2022/04/18
+1. V5.0.3
+2. Modify bitrate stage value: 600kbps to 500kbps
+
+2022/03/23
+1. V5.0.2
+2. fix issue of division on too small float values
+3. Disable -ffast-match
+4. update core coefficients
+
+2022/02/24
+1. V5.0.1
+2. lib base code
